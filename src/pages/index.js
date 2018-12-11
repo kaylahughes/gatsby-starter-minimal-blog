@@ -45,10 +45,9 @@ const IndexPage = ({
   <Layout>
     <Wrapper>
       <Hero>
-        <h1>Hi.</h1>
+        <h1>Blog.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
-          React apps with the best UX users can get.
+			I&apos;m Kayla Hughes, a Graphic Designer with two years of industry experience, specialising in creating content for Fashion and Beauty companies.</p>
         </p>
         <Link to="/contact">
           <Button big>
